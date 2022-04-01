@@ -1,0 +1,24 @@
+{
+  "@@locale" : "my",
+  "title": "ဘာသာစကားစမ်းသပ်ခြင်း",
+  "greeting" : "မင်္ဂလာပါ {username}",
+  "@greeting": {
+    "description": "Introducing user",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "invitation_message": "ဆက်သွယ်ရန်",
+  "homeTitle" : "မူလစာမျက်နှာ",
+  "settingTitle" : "ပြင်ဆင်မှု",
+  "language" : "{language} ဘာသာကို အသုံးပြုနေသည်",
+  "@language" : {
+    "placeholders": {
+      "language": {
+        "type": "String"
+      }
+    }
+  }
+}

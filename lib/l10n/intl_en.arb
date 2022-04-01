@@ -1,0 +1,24 @@
+{
+  "@@locale": "en",
+  "title": "Flutter Language TEST",
+  "greeting": "Welcome {username}",
+  "@greeting": {
+    "description": "Introducing user",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "invitation_message": "Join our community",
+  "homeTitle" : "Home",
+  "settingTitle" : "Setting",
+  "language" : "You are in {language}",
+  "@language" : {
+    "placeholders" : {
+      "language" : {
+        "type" : "String"
+      }
+    }
+  }
+}

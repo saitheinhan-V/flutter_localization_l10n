@@ -1,0 +1,24 @@
+{
+  "@@locale": "ja",
+  "title": "Flutterローカリゼーション",
+  "greeting": "こんにちは、私の名前は {username} です",
+  "@greeting": {
+    "description": "Introducing user",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "invitation_message": "Flutterで世界を良くしましょう",
+  "homeTitle" : "で世界",
+  "settingTitle" : "しょう",
+  "language" : "で世界を良 {language}",
+  "@language" : {
+    "placeholders": {
+      "language": {
+        "type": "String"
+      }
+    }
+  }
+}

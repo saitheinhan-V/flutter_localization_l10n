@@ -1,0 +1,24 @@
+{
+  "@@locale": "ar",
+  "title": "توطين الرفرفة",
+  "greeting": "مرحبا اسمي {username}",
+  "@greeting": {
+    "description": "Introducing user",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "invitation_message": "Flutter لنجعل العالم أفضل مع",
+  "homeTitle" : "أفضل مع",
+  "settingTitle" : "العالم",
+  "language" : "العالم أفضل م {language}",
+  "@language" : {
+    "placeholders": {
+      "language": {
+        "type": "String"
+      }
+    }
+  }
+}
